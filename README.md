@@ -70,6 +70,6 @@ docker-compose up -d
 
 ## view
 
-- [InfluxDB](http://localhost:8083)
+- [InfluxDB](http://localhost:8083) root/root
 - [CAdvisor](http://localhost:8080)
-- [Grafana](http://localhost:3000)
+- [Grafana](http://localhost:3000) admin/admin
